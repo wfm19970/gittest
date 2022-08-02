@@ -7,4 +7,4 @@ Creating a new branch is quick and simple.  add merge
 
 modify
 
-better
+better more
